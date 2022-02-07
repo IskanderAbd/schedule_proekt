@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+
+.title{
+    color: aqua;
+    font-size: 50px;
+    font-family: ""
+    /* margin top right bottom left */
+    /* margin: 20px 10px */
+}
+
+#unique_block {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid blue;
+    border-radius: 5%;
+    text-align: center;
+    /* padding: 10px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}

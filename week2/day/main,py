@@ -1,0 +1,52 @@
+a = true
+b = False
+
+print(type(a))
+if 
+if else
+if elif else
+
+and --> и
+
+true and true == true
+true and false == false
+false and false == false
+
+
+or--> ili
+
+true or false == true
+true or true == true
+false or false == false
+not --> ne
+not false == true
+not true == false
+not(true or fase) == false
+not (false or true) == true
+not (true or true) == false
+
+!= --> NE RAVNO
+
+1==1 --> true
+1==0--> false
+
+== OPERATOR SRAVNENIYA
+
+a = 1
+b = 0
+a == b --> false
+a != b --> true
+c = a == b
+print(c)
+
+> bolshe
+< menshe
+<= menshe ili RAVNO
+>= bolshe ili RAVNO
+
+if comdition :
+    steatement 1
+    steatement 2
+
+x = input('enter intager: ')
+print(type(x))

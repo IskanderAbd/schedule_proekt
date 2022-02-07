@@ -1,0 +1,45 @@
+body {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0; 
+}
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.bloc-1 {
+    width: 100%;
+    height: 100;
+    background-color: red;
+}
+
+.block-2 {
+    width: 200%;
+    height: 200%;
+    background-color: blue;
+}
+.block-3 {
+    width: 300%;
+    height: 300%;
+    background-color: yellow;
+}
+.block-4 {
+    width: 400%;
+    height: 400%;
+    background-color: rgb(82, 82, 9);
+}
+.block-5 {
+    width: 500%;
+    height: 500%;
+    background-color: orange;
+}
