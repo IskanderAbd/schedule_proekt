@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "iska",
+      "age": "15",
+      "password": "12",
+      "id": 1
+    },
+    {
+      "name": "iskander",
+      "age": "19",
+      "password": "2006",
+      "id": 2
+    },
+    {
+      "name": "iskander",
+      "age": "19",
+      "password": "2006",
+      "id": 3
+    },
+    {
+      "name": "iska",
+      "age": "19",
+      "password": "2006",
+      "id": 4
+    },
+    {
+      "name": "",
+      "age": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "name": "iskander",
+      "age": "19",
+      "password": "2006",
+      "id": 6
+    }
+  ]
+}
